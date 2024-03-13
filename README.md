@@ -1,0 +1,20 @@
+## a21sks-user 12 SP1A.210812.016 A217NKSU9DWI2 release-keys
+- Manufacturer: samsung
+- Platform: universal3830
+- Codename: a21s
+- Brand: samsung
+- Flavor: a21sks-user
+- Release Version: 12
+- Kernel Version: 4.19.132
+- Id: SP1A.210812.016
+- Incremental: A217NKSU9DWI2
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/a21sks/a21s:12/SP1A.210812.016/A217NKSU9DWI2:user/release-keys
+- OTA version: 
+- Branch: a21sks-user-12-SP1A.210812.016-A217NKSU9DWI2-release-keys
+- Repo: samsung_a21s_dump
